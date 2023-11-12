@@ -1,0 +1,8 @@
+using namespace std;
+int main()
+{
+    int a,b,8,num$;
+    c=a+b+90;
+    add a+b;
+    return c;
+}
